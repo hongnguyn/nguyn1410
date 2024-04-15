@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-judson: Judson;
+  --font-inter: Inter;
+  --font-kameron: Kameron;
+  --font-khmer: Khmer;
+  --font-inria-serif: "Inria Serif";
+  --font-kantumruy: Kantumruy;
+  --font-kaisei-tokumin: "Kaisei Tokumin";
+  --font-kaisei-decol: "Kaisei Decol";
+  --font-im-fell-french-canon: "IM FELL French Canon";
+  --font-im-fell-great-primer: "IM FELL Great Primer";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-45xl: 64px;
+  --font-size-13xl: 32px;
+  --font-size-2xs: 11px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-200: #929292;
+  --color-gray-300: #938f8f;
+  --color-gray-400: #8e817c;
+  --color-gray-600: #827e7e;
+  --color-gray-500: #151218;
+  --color-mistyrose-100: #ffe7e7;
+  --color-mistyrose-300: #f9e0e1;
+  --color-mistyrose-200: #e1c4c0;
+  --color-black: #000;
+  --color-dimgray-100: #7f6c6c;
+  --color-dimgray-200: #786f6f;
+  --color-dimgray-300: #7c6c6c;
+  --color-dimgray-400: #716d6d;
+  --color-dimgray-500: #716767;
+  --color-dimgray-600: #5f5959;
+  --color-brown-100: #702835;
+  --color-lightslategray-100: #909ac2;
+  --color-lightslategray-200: #78a2c2;
+  --color-pink-100: #e4afb3;
+  --color-pink-200: #deabb8;
+  --color-steelblue: #1585c5;
+  --color-linen: #faebe3;
+  --color-silver-100: #dfbdbb;
+  --color-silver-300: #bbb3b3;
+  --color-silver-200: #b8b4b4;
+  --color-maroon: rgba(78, 9, 9, 0.85);
+  --color-lightgray: #c1d5d7;
+  --color-gainsboro-200: #d9d9d9;
+  --color-lavenderblush: #fff0f0;
+
+  /* Border radiuses */
+  --br-lg: 18px;
+  --br-81xl: 100px;
+  --br-xl: 20px;
+  --br-8xs: 5px;
+  --br-11xs: 2px;
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+}

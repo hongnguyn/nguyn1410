@@ -1,0 +1,249 @@
+.login-child {
+  top: 0;
+  background-color: var(--color-mistyrose-100);
+  width: 1440px;
+  height: 40px;
+}
+.login-child,
+.login-item,
+.shop-all3 {
+  position: absolute;
+  left: 0;
+}
+.login-item {
+  top: 40px;
+  background-color: var(--color-lavenderblush);
+  width: 1440px;
+  height: 47px;
+}
+.shop-all3 {
+  top: 0;
+  display: inline-block;
+  width: 128px;
+}
+.best-seller3,
+.collection3,
+.gift-guide3,
+.offers3 {
+  position: absolute;
+  top: 0;
+  left: 141px;
+  display: inline-block;
+  width: 99px;
+}
+.best-seller3,
+.collection3,
+.gift-guide3 {
+  left: 281px;
+  width: 171px;
+}
+.collection3,
+.gift-guide3 {
+  left: 468px;
+  width: 170px;
+}
+.gift-guide3 {
+  left: 654px;
+  width: 154px;
+}
+.shop-all-container {
+  position: absolute;
+  top: 52px;
+  left: 343px;
+  width: 808px;
+  height: 23px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-judson);
+}
+.logo-4c148644-c708-4043-a283-e-icon4 {
+  position: absolute;
+  top: 48px;
+  left: 40px;
+  width: 179px;
+  height: 30px;
+  object-fit: cover;
+}
+.off-for-violet3 {
+  position: absolute;
+  top: 10px;
+  left: 520px;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  font-family: var(--font-kantumruy);
+  color: var(--color-dimgray-500);
+  display: inline-block;
+  width: 650px;
+  height: 60px;
+}
+.image-8-icon2 {
+  position: absolute;
+  top: 46px;
+  left: 1165px;
+  width: 61px;
+  height: 34px;
+  object-fit: cover;
+}
+.image-10-icon2,
+.image-11-icon2,
+.image-9-icon2 {
+  position: absolute;
+  top: 47px;
+  left: 1226px;
+  width: 29px;
+  height: 34px;
+  object-fit: cover;
+}
+.image-10-icon2,
+.image-11-icon2 {
+  left: 1255px;
+  width: 51px;
+  height: 37px;
+}
+.image-11-icon2 {
+  top: 50px;
+  left: 1300px;
+  width: 53px;
+  height: 32px;
+}
+.login1 {
+  position: absolute;
+  top: 176px;
+  left: 341px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.create-account {
+  color: #5f5757;
+}
+.dont-have-an-container {
+  position: absolute;
+  top: 222px;
+  left: 341px;
+  cursor: pointer;
+}
+.image-5-icon4 {
+  position: absolute;
+  top: 561px;
+  left: -24px;
+  width: 1464.3px;
+  height: 399px;
+  object-fit: cover;
+}
+.component-42-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-mistyrose-300);
+  box-sizing: border-box;
+}
+.password {
+  position: absolute;
+  height: 48%;
+  width: 15.61%;
+  top: 26%;
+  left: 3.08%;
+  display: inline-block;
+}
+.component-42 {
+  position: absolute;
+  top: 334px;
+  left: 349px;
+  width: 487px;
+  height: 50px;
+  color: var(--color-silver-300);
+}
+.forgot-your-password {
+  position: absolute;
+  top: 399px;
+  left: 349px;
+  width: 183px;
+  height: 23px;
+  color: #716666;
+}
+.component-43-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-mistyrose-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.component-43,
+.sign-in {
+  position: absolute;
+  top: 32.76%;
+  left: 35.68%;
+}
+.component-43 {
+  top: 473px;
+  left: 341px;
+  width: 227px;
+  height: 58px;
+  color: var(--color-gray-600);
+  font-family: var(--font-im-fell-great-primer);
+}
+.component-44-child,
+.return-to-store {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.component-44-child {
+  height: 5%;
+  width: 99.54%;
+  top: 100%;
+  right: 0.46%;
+  bottom: -5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-44 {
+  position: absolute;
+  top: 492px;
+  left: 602px;
+  width: 108px;
+  height: 20px;
+  color: var(--color-dimgray-600);
+  font-family: var(--font-im-fell-french-canon);
+}
+.email {
+  margin: 0;
+}
+.component-59 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.component-60 {
+  position: absolute;
+  top: 269px;
+  left: 349px;
+  width: 487px;
+  height: 50px;
+  color: var(--color-silver-300);
+}
+.login {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+  font-family: var(--font-kaisei-decol);
+}

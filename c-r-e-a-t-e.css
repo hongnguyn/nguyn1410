@@ -1,0 +1,268 @@
+.create-child,
+.create-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mistyrose-100);
+  width: 1440px;
+  height: 40px;
+}
+.create-item {
+  top: 40px;
+  background-color: var(--color-lavenderblush);
+  height: 47px;
+}
+.shop-all4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 128px;
+}
+.best-seller4,
+.collection4,
+.gift-guide4,
+.offers4 {
+  position: absolute;
+  top: 0;
+  left: 141px;
+  display: inline-block;
+  width: 99px;
+}
+.best-seller4,
+.collection4,
+.gift-guide4 {
+  left: 281px;
+  width: 171px;
+}
+.collection4,
+.gift-guide4 {
+  left: 468px;
+  width: 170px;
+}
+.gift-guide4 {
+  left: 654px;
+  width: 154px;
+}
+.shop-all-parent1 {
+  position: absolute;
+  top: 52px;
+  left: 343px;
+  width: 808px;
+  height: 23px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-judson);
+}
+.logo-4c148644-c708-4043-a283-e-icon5 {
+  position: absolute;
+  top: 48px;
+  left: 40px;
+  width: 179px;
+  height: 30px;
+  object-fit: cover;
+}
+.off-for-violet4 {
+  position: absolute;
+  top: 10px;
+  left: 520px;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  font-family: var(--font-kantumruy);
+  color: var(--color-dimgray-500);
+  display: inline-block;
+  width: 650px;
+  height: 60px;
+}
+.image-8-icon3 {
+  position: absolute;
+  top: 46px;
+  left: 1165px;
+  width: 61px;
+  height: 34px;
+  object-fit: cover;
+}
+.image-9-icon3 {
+  top: 47px;
+  left: 1226px;
+  width: 29px;
+  height: 34px;
+}
+.image-10-icon3,
+.image-11-icon3,
+.image-9-icon3 {
+  position: absolute;
+  object-fit: cover;
+}
+.image-10-icon3 {
+  top: 47px;
+  left: 1255px;
+  width: 51px;
+  height: 37px;
+  cursor: pointer;
+}
+.image-11-icon3 {
+  top: 50px;
+  left: 1300px;
+  width: 53px;
+  height: 32px;
+}
+.id-like-to {
+  margin: 0;
+}
+.id-like-to-container {
+  position: absolute;
+  top: 518px;
+  left: 341px;
+  font-size: var(--font-size-mini);
+  color: #5d5858;
+}
+.create-account1 {
+  position: absolute;
+  top: 156px;
+  left: 329px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.image-5-icon5 {
+  position: absolute;
+  top: 739px;
+  left: -12px;
+  width: 1464.3px;
+  height: 399px;
+  object-fit: cover;
+}
+.component-61-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-mistyrose-300);
+  box-sizing: border-box;
+}
+.first-name {
+  position: absolute;
+  height: 48%;
+  width: 21.36%;
+  top: 22%;
+  left: 2.87%;
+  display: inline-block;
+}
+.component-61,
+.last-name {
+  position: absolute;
+  top: 260px;
+  left: 342px;
+  width: 487px;
+  height: 50px;
+}
+.last-name {
+  height: 48%;
+  width: 27.52%;
+  top: 24%;
+  left: 2.87%;
+  display: inline-block;
+}
+.component-62,
+.email1 {
+  position: absolute;
+  top: 321px;
+  left: 342px;
+  width: 487px;
+  height: 50px;
+}
+.email1 {
+  height: 48%;
+  width: 15.61%;
+  top: 26%;
+  left: 2.87%;
+  display: inline-block;
+}
+.component-63,
+.password2 {
+  position: absolute;
+  top: 382px;
+  left: 342px;
+  width: 487px;
+  height: 50px;
+}
+.password2 {
+  height: 48%;
+  width: 15.61%;
+  top: 26%;
+  left: 3.08%;
+  display: inline-block;
+}
+.component-421 {
+  position: absolute;
+  top: 443px;
+  left: 342px;
+  width: 487px;
+  height: 50px;
+}
+.component-64-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-mistyrose-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.component-64,
+.create1 {
+  position: absolute;
+  top: 32.76%;
+  left: 35.68%;
+}
+.component-64 {
+  top: 590px;
+  left: 336px;
+  width: 227px;
+  height: 58px;
+  color: var(--color-gray-600);
+  font-family: var(--font-im-fell-great-primer);
+}
+.component-65-child,
+.return-to-store1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.component-65-child {
+  height: 5%;
+  width: 99.54%;
+  top: 100%;
+  right: 0.46%;
+  bottom: -5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-65 {
+  position: absolute;
+  top: 609px;
+  left: 586px;
+  width: 108px;
+  height: 20px;
+  color: var(--color-dimgray-600);
+  font-family: var(--font-im-fell-french-canon);
+}
+.create {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1138px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver-300);
+  font-family: var(--font-kaisei-decol);
+}
